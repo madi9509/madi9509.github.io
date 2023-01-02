@@ -1,0 +1,48 @@
+.boxmodel {
+	border: 5px solid pink;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 0px;
+	width: 33px;
+	height: 55px;
+}
+
+.container {
+	background-color: #282F36;
+}
+
+.navbar-nav {
+	text-align: right;
+}
+
+.nav-link {
+	color: white;
+
+}
+
+header {
+	width: 100%;
+	height: 540px;
+	background-image: url('https://source.unsplash.com/wfh8dDlNFOk/1920x1080');
+	background-repeat: no-repeat;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+
+p {
+	text-align: center;
+	margin: 10px 20px;
+	font-family: "Garamond", serif;
+	font-size: 20px;
+}
+
+.txt {
+	color: grey;
+}
+.btxt {
+	margin-top: 3%; 
+}
